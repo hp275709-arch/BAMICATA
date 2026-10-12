@@ -1,0 +1,6 @@
+{
+  "name": "The New Form — Digital Flipbook Reader & Studio",
+  "description": "An editorial digital publication flipbook reader exploring modern objects and considered design. Features 2-page spreads, 3D flip effect, live search, PDF import, and visual page editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
